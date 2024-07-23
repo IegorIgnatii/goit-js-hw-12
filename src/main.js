@@ -2,7 +2,7 @@ import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
 import { requestImages } from './js/pixabay-api';
-import { renderImages } from './js/render-functions';
+import { renderImages } from './js/render-function';
 import { scrollDawn } from './js/imagesScroll';
 
 import {
